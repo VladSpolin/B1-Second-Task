@@ -1,0 +1,12 @@
+D:\My projects C#\SecondTask\SecondTask.Model\bin\Debug\net6.0\SecondTask.Model.deps.json
+D:\My projects C#\SecondTask\SecondTask.Model\bin\Debug\net6.0\SecondTask.Model.dll
+D:\My projects C#\SecondTask\SecondTask.Model\bin\Debug\net6.0\SecondTask.Model.pdb
+D:\My projects C#\SecondTask\SecondTask.Model\obj\Debug\net6.0\SecondTask.Model.csproj.AssemblyReference.cache
+D:\My projects C#\SecondTask\SecondTask.Model\obj\Debug\net6.0\SecondTask.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\My projects C#\SecondTask\SecondTask.Model\obj\Debug\net6.0\SecondTask.Model.AssemblyInfoInputs.cache
+D:\My projects C#\SecondTask\SecondTask.Model\obj\Debug\net6.0\SecondTask.Model.AssemblyInfo.cs
+D:\My projects C#\SecondTask\SecondTask.Model\obj\Debug\net6.0\SecondTask.Model.csproj.CoreCompileInputs.cache
+D:\My projects C#\SecondTask\SecondTask.Model\obj\Debug\net6.0\SecondTask.Model.dll
+D:\My projects C#\SecondTask\SecondTask.Model\obj\Debug\net6.0\refint\SecondTask.Model.dll
+D:\My projects C#\SecondTask\SecondTask.Model\obj\Debug\net6.0\SecondTask.Model.pdb
+D:\My projects C#\SecondTask\SecondTask.Model\obj\Debug\net6.0\ref\SecondTask.Model.dll

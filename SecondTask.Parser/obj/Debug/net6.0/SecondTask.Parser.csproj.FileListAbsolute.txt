@@ -1,0 +1,15 @@
+D:\My projects C#\SecondTask\SecondTask.Parser\bin\Debug\net6.0\SecondTask.Parser.deps.json
+D:\My projects C#\SecondTask\SecondTask.Parser\bin\Debug\net6.0\SecondTask.Parser.dll
+D:\My projects C#\SecondTask\SecondTask.Parser\bin\Debug\net6.0\SecondTask.Parser.pdb
+D:\My projects C#\SecondTask\SecondTask.Parser\bin\Debug\net6.0\SecondTask.Model.dll
+D:\My projects C#\SecondTask\SecondTask.Parser\bin\Debug\net6.0\SecondTask.Model.pdb
+D:\My projects C#\SecondTask\SecondTask.Parser\obj\Debug\net6.0\SecondTask.Parser.csproj.AssemblyReference.cache
+D:\My projects C#\SecondTask\SecondTask.Parser\obj\Debug\net6.0\SecondTask.Parser.GeneratedMSBuildEditorConfig.editorconfig
+D:\My projects C#\SecondTask\SecondTask.Parser\obj\Debug\net6.0\SecondTask.Parser.AssemblyInfoInputs.cache
+D:\My projects C#\SecondTask\SecondTask.Parser\obj\Debug\net6.0\SecondTask.Parser.AssemblyInfo.cs
+D:\My projects C#\SecondTask\SecondTask.Parser\obj\Debug\net6.0\SecondTask.Parser.csproj.CoreCompileInputs.cache
+D:\My projects C#\SecondTask\SecondTask.Parser\obj\Debug\net6.0\SecondTask.Parser.csproj.CopyComplete
+D:\My projects C#\SecondTask\SecondTask.Parser\obj\Debug\net6.0\SecondTask.Parser.dll
+D:\My projects C#\SecondTask\SecondTask.Parser\obj\Debug\net6.0\refint\SecondTask.Parser.dll
+D:\My projects C#\SecondTask\SecondTask.Parser\obj\Debug\net6.0\SecondTask.Parser.pdb
+D:\My projects C#\SecondTask\SecondTask.Parser\obj\Debug\net6.0\ref\SecondTask.Parser.dll
