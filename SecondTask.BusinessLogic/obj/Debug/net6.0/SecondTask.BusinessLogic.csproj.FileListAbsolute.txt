@@ -1,0 +1,17 @@
+D:\My projects C#\SecondTask\SecondTask.BusinessLogic\bin\Debug\net6.0\SecondTask.BusinessLogic.deps.json
+D:\My projects C#\SecondTask\SecondTask.BusinessLogic\bin\Debug\net6.0\SecondTask.BusinessLogic.dll
+D:\My projects C#\SecondTask\SecondTask.BusinessLogic\bin\Debug\net6.0\SecondTask.BusinessLogic.pdb
+D:\My projects C#\SecondTask\SecondTask.BusinessLogic\bin\Debug\net6.0\SecondTask.Model.dll
+D:\My projects C#\SecondTask\SecondTask.BusinessLogic\bin\Debug\net6.0\SecondTask.Parser.dll
+D:\My projects C#\SecondTask\SecondTask.BusinessLogic\bin\Debug\net6.0\SecondTask.Model.pdb
+D:\My projects C#\SecondTask\SecondTask.BusinessLogic\bin\Debug\net6.0\SecondTask.Parser.pdb
+D:\My projects C#\SecondTask\SecondTask.BusinessLogic\obj\Debug\net6.0\SecondTask.BusinessLogic.csproj.AssemblyReference.cache
+D:\My projects C#\SecondTask\SecondTask.BusinessLogic\obj\Debug\net6.0\SecondTask.BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+D:\My projects C#\SecondTask\SecondTask.BusinessLogic\obj\Debug\net6.0\SecondTask.BusinessLogic.AssemblyInfoInputs.cache
+D:\My projects C#\SecondTask\SecondTask.BusinessLogic\obj\Debug\net6.0\SecondTask.BusinessLogic.AssemblyInfo.cs
+D:\My projects C#\SecondTask\SecondTask.BusinessLogic\obj\Debug\net6.0\SecondTask.BusinessLogic.csproj.CoreCompileInputs.cache
+D:\My projects C#\SecondTask\SecondTask.BusinessLogic\obj\Debug\net6.0\SecondTask.BusinessLogic.csproj.CopyComplete
+D:\My projects C#\SecondTask\SecondTask.BusinessLogic\obj\Debug\net6.0\SecondTask.BusinessLogic.dll
+D:\My projects C#\SecondTask\SecondTask.BusinessLogic\obj\Debug\net6.0\refint\SecondTask.BusinessLogic.dll
+D:\My projects C#\SecondTask\SecondTask.BusinessLogic\obj\Debug\net6.0\SecondTask.BusinessLogic.pdb
+D:\My projects C#\SecondTask\SecondTask.BusinessLogic\obj\Debug\net6.0\ref\SecondTask.BusinessLogic.dll

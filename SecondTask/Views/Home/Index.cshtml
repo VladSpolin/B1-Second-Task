@@ -1,0 +1,46 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+@using (Html.BeginForm("Upload", "Home", FormMethod.Post, new { enctype = "multipart/form-data" }))
+{
+    <h2 class="display-4">Загрузите Excel-файл</h2>
+    <input type="file" name="uploadedFile" />
+    <input type="submit" value="Загрузить файл"/>
+}
+
+@using (Html.BeginForm("Export", "Home", FormMethod.Get ))
+{
+        <h2>Вы также можете скачать файл с данными на компьютер</h2>
+    <input type="submit" value="Скачать"/>
+}
+
+@model IEnumerable<SecondTask.Model.Models.File>
+ 
+<h2>Список файлов</h2>
+
+
+    @foreach (var item in Model)
+    {
+        <details>
+        <summary>@item.Name</summary>
+        <table class="table">
+                     <tr><th>Б/сч</th><th>Входящее сальдо(Актив)</th><th>Входящее сальдо(Пассив)</th><th>Обороты(Дебет)</th><th>Обороты(Кредит)</th><th>Исходящее сальдо(Актив)</th><th>Исходящее сальдо(Пассив)</th></tr>
+                @foreach(var line in item.Data)
+                {
+                    <tr>
+                    <td>@line.Account</td>
+                    <td>@line.OpenBalance_A</td>
+                    <td>@line.OpenBalance_P</td>
+                    <td>@line.Turnover_Db</td>
+                    <td>@line.TurnOver_Ct</td>
+                    <td>@line.ClosBalance_A</td>
+                    <td>@line.ClosBalance_P</td>
+                    </tr>
+                }
+            </table>
+        </details>
+    }
+
+
+
